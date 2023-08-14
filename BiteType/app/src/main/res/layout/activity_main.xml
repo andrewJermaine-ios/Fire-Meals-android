@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/ComponentActivity"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -22,8 +24,15 @@
     <TextView
         android:id="@+id/myTextView"
         android:layout_width="match_parent"
-        android:layout_height="601dp"
+        android:layout_height="252dp"
         android:scrollbarAlwaysDrawVerticalTrack="true"
         android:scrollHorizontally="false"
+        android:text="hi"
         android:textIsSelectable="true" />
+
+    <ImageView
+        android:id="@+id/aiResponseImageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:src="@tools:sample/backgrounds/scenic" />
 </LinearLayout>
