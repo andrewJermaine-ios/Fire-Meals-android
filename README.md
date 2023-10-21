@@ -1,6 +1,8 @@
 Bite Type
 
-The ai-powered diet-shaper and meal-maker & Hello!
+The ai-powered diet-shaper and meal-maker
+
+Hello!
 
 Thanks for your interest! Here's a quick breakdown of what this project is about:
 
@@ -12,7 +14,9 @@ Security Authentication & Identification Methods
 
 Personalization Profile Creation Diet On-boarding section
 
-Ai-Functionality Ai text generation - ✅ (Can update ChatGPT Versions) Ai text to image generation - ✅ (can be improved) Ai voice to text generation - 🚧
+Ai-Functionality Ai text generation - ✅ (Can update ChatGPT Versions)
+Ai text to image generation - ✅ (can be improved)
+Ai voice to text generation - 🚧
 
 Results and Tracking Saving Responses and Questions Image taking (made meals)
 
